@@ -1,6 +1,7 @@
 # Human Against Machine with 1000 training images (Multiclass Classification)
 
 dataset link = https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+
 dataset description = https://arxiv.org/ftp/arxiv/papers/1803/1803.10417.pdf
 
 There are 7 classes of skin cancer lesions that are included in this dataset which comprises:
